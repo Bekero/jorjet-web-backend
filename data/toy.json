@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Jarin",
+    "price": 123,
+    "labels": [
+      "Box game",
+      "On wheels",
+      "Baby"
+    ],
+    "_id": "rKVvy",
+    "createdAt": 1662577744981,
+    "inStock": false
+  },
+  {
+    "name": "Beker",
+    "price": 33,
+    "labels": [
+      "Box game",
+      "Doll",
+      "Baby"
+    ],
+    "_id": "iRQKT",
+    "createdAt": 1662577770124,
+    "inStock": false
+  },
+  {
+    "name": "Retu",
+    "price": 11,
+    "labels": [
+      "Box game",
+      "Doll",
+      "Outdoor"
+    ],
+    "_id": "i9coC",
+    "createdAt": 1662577779751,
+    "inStock": true
+  },
+  {
+    "name": "Puki Ja",
+    "price": 99,
+    "labels": [
+      "Art",
+      "Puzzle",
+      "Outdoor"
+    ],
+    "_id": "SbesJ",
+    "createdAt": 1662630727420,
+    "inStock": false
+  },
+  {
+    "name": "Bobbi",
+    "price": 1,
+    "labels": [
+      "Box game",
+      "On wheels",
+      "Outdoor"
+    ],
+    "_id": "wkw9a",
+    "createdAt": 1662630774565,
+    "inStock": true
+  },
+  {
+    "name": "Liron",
+    "price": 99,
+    "labels": [
+      "Baby",
+      "Doll"
+    ],
+    "_id": "4zbH6",
+    "createdAt": 1662638799855,
+    "inStock": false
+  },
+  {
+    "name": "Hello",
+    "price": "",
+    "_id": "OoYwr",
+    "createdAt": 1662658480134,
+    "inStock": false
+  },
+  {
+    "name": "Yuli",
+    "price": 99,
+    "labels": [
+      "Box game",
+      "Puzzle"
+    ],
+    "_id": "NpOOG",
+    "createdAt": 1662729233165,
+    "inStock": true
+  },
+  {
+    "name": "Lihi",
+    "price": 333,
+    "labels": [
+      "Art",
+      "Puzzle"
+    ],
+    "_id": "3cYN8",
+    "createdAt": 1662729247402,
+    "inStock": false
+  }
+]
