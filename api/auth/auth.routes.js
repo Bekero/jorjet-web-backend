@@ -1,8 +1,6 @@
 const express = require('express')
 const {login, signup, logout} = require('./auth.controller')
 
-console.log('HEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY')
-
 const router = express.Router()
 
 router.post('/login', login)

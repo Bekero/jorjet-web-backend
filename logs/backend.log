@@ -434,3 +434,28 @@
 9/12/2022, 9:31:03 PM - INFO - User login:  | {"_id":"631f452edbbcfa1ec165f44b","username":"beko","fullname":"beko or","score":0}
 9/12/2022, 9:31:03 PM - DEBUG - auth.service - login with username: beko
 9/12/2022, 9:31:03 PM - INFO - User login:  | {"_id":"631f452edbbcfa1ec165f44b","username":"beko","fullname":"beko or","score":0}
+9/13/2022, 1:23:31 PM - DEBUG - {"fullname":"Beker Or","username":"beker","password":"1234"}
+9/13/2022, 1:23:32 PM - DEBUG - auth.service - signup with username: beker, fullname: Beker Or
+9/13/2022, 1:23:32 PM - ERROR - Failed to signup Username already taken
+9/13/2022, 1:23:40 PM - DEBUG - auth.service - login with username: beker
+9/13/2022, 1:23:41 PM - INFO - User login:  | {"_id":"631f2e53dbbcfa1ec165f447","username":"beker","fullname":"beker or","score":0}
+9/13/2022, 1:23:51 PM - DEBUG - {"fullname":"Bekerrr","username":"qwe","password":"qwe"}
+9/13/2022, 1:23:51 PM - DEBUG - auth.service - signup with username: qwe, fullname: Bekerrr
+9/13/2022, 1:23:51 PM - ERROR - Failed to signup Username already taken
+9/13/2022, 1:25:17 PM - DEBUG - {"fullname":"Beko Or","username":"beko","password":"1234"}
+9/13/2022, 1:25:17 PM - DEBUG - auth.service - signup with username: beko, fullname: Beko Or
+9/13/2022, 1:25:17 PM - DEBUG - auth.route - new account created: {"username":"beko","password":"$2b$10$NixTau349iZ5i9eG5bVQHOzkUKQn8TiJ3CDLzgQ.EaOBVcrbvggl2","fullname":"Beko Or","score":0,"_id":"63205a8d93ecf4956e3234d3"}
+9/13/2022, 1:25:17 PM - DEBUG - auth.service - login with username: beko
+9/13/2022, 1:25:17 PM - INFO - User signup: | {"_id":"63205a8d93ecf4956e3234d3","username":"beko","fullname":"Beko Or","score":0}
+9/13/2022, 1:25:26 PM - DEBUG - auth.service - login with username: beko
+9/13/2022, 1:25:26 PM - INFO - User login:  | {"_id":"63205a8d93ecf4956e3234d3","username":"beko","fullname":"Beko Or","score":0}
+9/13/2022, 1:33:35 PM - DEBUG - auth.service - login with username: beko
+9/13/2022, 1:33:35 PM - INFO - User login:  | {"_id":"63205a8d93ecf4956e3234d3","username":"beko","fullname":"Beko Or","score":0}
+9/13/2022, 1:34:07 PM - DEBUG - auth.service - login with username: qwe
+9/13/2022, 1:34:07 PM - ERROR - Failed to Login Invalid username or password
+9/13/2022, 1:34:17 PM - DEBUG - auth.service - login with username: qwe
+9/13/2022, 1:34:17 PM - ERROR - Failed to Login Invalid username or password
+9/13/2022, 1:34:28 PM - DEBUG - auth.service - login with username: gre
+9/13/2022, 1:34:28 PM - ERROR - Failed to Login Invalid username or password
+9/13/2022, 1:34:48 PM - DEBUG - auth.service - login with username: qwe
+9/13/2022, 1:34:48 PM - ERROR - Failed to Login Invalid username or password
