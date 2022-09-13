@@ -4,14 +4,29 @@ const logger = require('../../services/logger.service')
 
 // GET LIST
 async function getToys(req, res) {
+    console.log('req.query.params :', req.query.params)
     try {
-        var queryParams = req.query
-        const toys = await toyService.query(queryParams)
-        res.json(toys)
+        logger.debug('Getting toys')
+        let filterBy
+        if (req.query.params) {
+            filterBy = JSON.parse(req.query.params)
+        } else {
+            filterBy = {}
+        }
+        const toys = await toyService.query(filterBy)
+        res.send(toys)
     } catch (err) {
         logger.error('Failed to get toys', err)
         res.status(500).send({ err: 'Failed to get toys' })
     }
+
+    //     var queryParams = req.query
+    //     const toys = await toyService.query(queryParams)
+    //     res.json(toys)
+    // } catch (err) {
+    //     logger.error('Failed to get toys', err)
+    //     res.status(500).send({ err: 'Failed to get toys' })
+    // }
 }
 
 // GET BY ID 
@@ -28,9 +43,9 @@ async function getToyById(req, res) {
 
 // POST (add toy)
 async function addToy(req, res) {
-    
+
     try {
-        
+
         const toy = req.body
         const addedToy = await toyService.add(toy)
         res.json(addedToy)
