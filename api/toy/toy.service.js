@@ -6,9 +6,10 @@ async function query(filterBy) {
     try {
         // const criteria = _buildCriteria(filterBy)
         const criteria = {}
-
+        
         const collection = await dbService.getCollection('toy')
         var toys = await collection.find(criteria).toArray()
+        console.log('TOYS', toys)
         return toys
     } catch (err) {
         logger.error('cannot find toys', err)

@@ -7,7 +7,6 @@
       "On wheels",
       "Baby"
     ],
-    "_id": "rKVvy",
     "createdAt": 1662577744981,
     "inStock": false
   },
@@ -19,7 +18,6 @@
       "Doll",
       "Baby"
     ],
-    "_id": "iRQKT",
     "createdAt": 1662577770124,
     "inStock": false
   },
@@ -31,7 +29,6 @@
       "Doll",
       "Outdoor"
     ],
-    "_id": "i9coC",
     "createdAt": 1662577779751,
     "inStock": true
   },
@@ -43,7 +40,6 @@
       "Puzzle",
       "Outdoor"
     ],
-    "_id": "SbesJ",
     "createdAt": 1662630727420,
     "inStock": false
   },
@@ -55,7 +51,6 @@
       "On wheels",
       "Outdoor"
     ],
-    "_id": "wkw9a",
     "createdAt": 1662630774565,
     "inStock": true
   },
@@ -66,14 +61,12 @@
       "Baby",
       "Doll"
     ],
-    "_id": "4zbH6",
     "createdAt": 1662638799855,
     "inStock": false
   },
   {
     "name": "Hello",
     "price": "",
-    "_id": "OoYwr",
     "createdAt": 1662658480134,
     "inStock": false
   },
@@ -84,7 +77,6 @@
       "Box game",
       "Puzzle"
     ],
-    "_id": "NpOOG",
     "createdAt": 1662729233165,
     "inStock": true
   },
@@ -95,7 +87,6 @@
       "Art",
       "Puzzle"
     ],
-    "_id": "3cYN8",
     "createdAt": 1662729247402,
     "inStock": false
   },
@@ -106,7 +97,6 @@
       "Art",
       "Puzzle"
     ],
-    "_id": "aJVeR",
     "createdAt": 1662905988939,
     "inStock": true
   },
@@ -116,7 +106,6 @@
     "labels": [
       "Box game"
     ],
-    "_id": "EJoyO",
     "createdAt": 1662906051703,
     "inStock": false
   },
@@ -127,7 +116,6 @@
       "Baby",
       "Doll"
     ],
-    "_id": "bxDwi",
     "createdAt": 1662906075950,
     "inStock": true
   },
@@ -138,7 +126,6 @@
       "On wheels",
       "Puzzle"
     ],
-    "_id": "9ZM4A",
     "createdAt": 1662910970979,
     "inStock": false
   },
@@ -150,7 +137,6 @@
       "Doll",
       "Outdoor"
     ],
-    "_id": "8ed8C",
     "createdAt": 1662910999282,
     "inStock": true
   }
