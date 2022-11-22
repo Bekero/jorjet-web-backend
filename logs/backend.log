@@ -1087,3 +1087,164 @@
 9/13/2022, 8:43:10 PM - DEBUG - auth.service - login with username: flika
 9/13/2022, 8:43:10 PM - INFO - User login:  | {"_id":"6320c118f35678f56787fc44","username":"flika","fullname":"Flika Mora","score":0}
 9/13/2022, 8:43:11 PM - DEBUG - Getting toys
+11/22/2022, 11:17:24 AM - DEBUG - Getting toys
+11/22/2022, 11:17:27 AM - DEBUG - Getting toys
+11/22/2022, 11:17:28 AM - DEBUG - Getting toys
+11/22/2022, 11:17:28 AM - DEBUG - Getting toys
+11/22/2022, 11:17:29 AM - DEBUG - Getting toys
+11/22/2022, 11:17:29 AM - DEBUG - Getting toys
+11/22/2022, 11:17:30 AM - DEBUG - Getting toys
+11/22/2022, 11:17:30 AM - DEBUG - Getting toys
+11/22/2022, 11:17:33 AM - DEBUG - Getting toys
+11/22/2022, 11:17:36 AM - DEBUG - Getting toys
+11/22/2022, 11:17:37 AM - DEBUG - Getting toys
+11/22/2022, 11:17:39 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:40 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:41 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:42 AM - DEBUG - Getting toys
+11/22/2022, 11:17:43 AM - DEBUG - Getting toys
+11/22/2022, 11:17:44 AM - DEBUG - Getting toys
+11/22/2022, 11:17:45 AM - DEBUG - Getting toys
+11/22/2022, 11:17:55 AM - DEBUG - Getting toys
+11/22/2022, 11:18:10 AM - DEBUG - {"fullname":"qweqwe","username":"qwe","password":"qwe"}
+11/22/2022, 11:18:10 AM - DEBUG - auth.service - signup with username: qwe, fullname: qweqwe
+11/22/2022, 11:18:10 AM - DEBUG - Getting toys
+11/22/2022, 11:18:11 AM - DEBUG - auth.route - new account created: {"username":"qwe","password":"$2b$10$lxjGTxxuWQjW3HtkXFdPiu7DbNqLvkJQpZ/c2sqvRO/k9.tBlyKSm","fullname":"qweqwe","score":0,"_id":"637c93d3f587835ddbd088cd"}
+11/22/2022, 11:18:11 AM - DEBUG - auth.service - login with username: qwe
+11/22/2022, 11:18:11 AM - INFO - User signup: | {"_id":"637c93d3f587835ddbd088cd","username":"qwe","fullname":"qweqwe","score":0}
+11/22/2022, 11:18:17 AM - DEBUG - auth.service - login with username: qwe
+11/22/2022, 11:18:17 AM - INFO - User login:  | {"_id":"637c93d3f587835ddbd088cd","username":"qwe","fullname":"qweqwe","score":0}
+11/22/2022, 11:18:20 AM - DEBUG - auth.service - login with username: qwe
+11/22/2022, 11:18:20 AM - INFO - User login:  | {"_id":"637c93d3f587835ddbd088cd","username":"qwe","fullname":"qweqwe","score":0}
+11/22/2022, 11:18:20 AM - DEBUG - Getting toys
+11/22/2022, 11:18:26 AM - DEBUG - Getting toys
+11/22/2022, 11:18:27 AM - DEBUG - Getting toys
+11/22/2022, 11:18:27 AM - DEBUG - Getting toys
+11/22/2022, 11:18:27 AM - DEBUG - Getting toys
+11/22/2022, 11:18:27 AM - DEBUG - Getting toys
+11/22/2022, 11:18:28 AM - DEBUG - Getting toys
+11/22/2022, 11:18:28 AM - DEBUG - Getting toys
+11/22/2022, 11:18:28 AM - DEBUG - Getting toys
+11/22/2022, 11:18:28 AM - DEBUG - Getting toys
+11/22/2022, 11:18:29 AM - DEBUG - Getting toys
+11/22/2022, 11:18:29 AM - DEBUG - Getting toys
+11/22/2022, 11:18:29 AM - DEBUG - Getting toys
+11/22/2022, 11:18:30 AM - DEBUG - Getting toys
+11/22/2022, 11:18:30 AM - DEBUG - Getting toys
+11/22/2022, 11:26:34 AM - DEBUG - Getting toys
+11/22/2022, 12:31:38 PM - DEBUG - Getting toys
+11/22/2022, 12:31:57 PM - DEBUG - Getting toys
+11/22/2022, 12:32:09 PM - DEBUG - Getting toys
+11/22/2022, 12:32:59 PM - DEBUG - Getting toys
+11/22/2022, 12:33:42 PM - DEBUG - Getting toys
+11/22/2022, 12:33:48 PM - DEBUG - Getting toys
+11/22/2022, 12:33:50 PM - DEBUG - Getting toys
+11/22/2022, 12:33:51 PM - DEBUG - Getting toys
+11/22/2022, 12:42:03 PM - DEBUG - Getting toys
+11/22/2022, 2:28:07 PM - DEBUG - Getting toys
+11/22/2022, 2:28:08 PM - DEBUG - Getting toys
+11/22/2022, 2:33:09 PM - DEBUG - Getting toys
+11/22/2022, 2:33:13 PM - DEBUG - Getting toys
+11/22/2022, 2:33:14 PM - DEBUG - Getting toys
+11/22/2022, 2:33:14 PM - DEBUG - Getting toys
+11/22/2022, 2:33:15 PM - DEBUG - Getting toys
+11/22/2022, 2:34:53 PM - DEBUG - {"fullname":"asdasd","username":"asd","password":"asd"}
+11/22/2022, 2:34:53 PM - DEBUG - auth.service - signup with username: asd, fullname: asdasd
+11/22/2022, 2:34:53 PM - DEBUG - Getting toys
+11/22/2022, 2:34:54 PM - ERROR - Failed to signup Username already taken
+11/22/2022, 2:35:03 PM - DEBUG - {"fullname":"rtyrty","username":"rtyrty","password":"rtyrty"}
+11/22/2022, 2:35:03 PM - DEBUG - auth.service - signup with username: rtyrty, fullname: rtyrty
+11/22/2022, 2:35:03 PM - DEBUG - Getting toys
+11/22/2022, 2:35:03 PM - DEBUG - auth.route - new account created: {"username":"rtyrty","password":"$2b$10$Kda6bwB8yWtkeW5kyYPkHegXoVC3u3KhY2xpnmjajAo.WNz.bcV8q","fullname":"rtyrty","score":0,"_id":"637cc1f7f587835ddbd088ce"}
+11/22/2022, 2:35:03 PM - DEBUG - auth.service - login with username: rtyrty
+11/22/2022, 2:35:03 PM - INFO - User signup: | {"_id":"637cc1f7f587835ddbd088ce","username":"rtyrty","fullname":"rtyrty","score":0}
+11/22/2022, 2:35:38 PM - DEBUG - Getting toys
+11/22/2022, 2:35:42 PM - DEBUG - Getting toys
+11/22/2022, 2:36:15 PM - DEBUG - auth.service - login with username: asd
+11/22/2022, 2:36:15 PM - INFO - User login:  | {"_id":"631f2d89d69af826bf71a497","username":"asd","fullname":"qweqwe q","score":0}
+11/22/2022, 2:36:19 PM - DEBUG - auth.service - login with username: rtyrty
+11/22/2022, 2:36:19 PM - INFO - User login:  | {"_id":"637cc1f7f587835ddbd088ce","username":"rtyrty","fullname":"rtyrty","score":0}
+11/22/2022, 2:36:19 PM - DEBUG - Getting toys
+11/22/2022, 2:37:57 PM - DEBUG - Getting toys
+11/22/2022, 2:38:50 PM - DEBUG - Getting toys
+11/22/2022, 2:41:42 PM - DEBUG - auth.service - login with username: asd
+11/22/2022, 2:41:42 PM - INFO - User login:  | {"_id":"631f2d89d69af826bf71a497","username":"asd","fullname":"qweqwe q","score":0}
+11/22/2022, 2:41:42 PM - DEBUG - Getting toys
+11/22/2022, 2:42:31 PM - DEBUG - Getting toys
+11/22/2022, 2:42:34 PM - DEBUG - auth.service - login with username: asd
+11/22/2022, 2:42:34 PM - INFO - User login:  | {"_id":"631f2d89d69af826bf71a497","username":"asd","fullname":"qweqwe q","score":0}
+11/22/2022, 2:42:34 PM - DEBUG - Getting toys
+11/22/2022, 2:44:02 PM - DEBUG - Getting toys
+11/22/2022, 2:44:04 PM - DEBUG - Getting toys
+11/22/2022, 2:44:05 PM - DEBUG - Getting toys
+11/22/2022, 2:45:33 PM - DEBUG - Getting toys
+11/22/2022, 2:45:35 PM - DEBUG - Getting toys
+11/22/2022, 2:45:36 PM - DEBUG - Getting toys
+11/22/2022, 2:46:20 PM - DEBUG - Getting toys
+11/22/2022, 2:46:24 PM - DEBUG - Getting toys
+11/22/2022, 2:46:48 PM - DEBUG - Getting toys
+11/22/2022, 2:47:07 PM - DEBUG - Getting toys
+11/22/2022, 2:47:11 PM - DEBUG - Getting toys
+11/22/2022, 2:47:11 PM - DEBUG - Getting toys
+11/22/2022, 2:47:12 PM - DEBUG - Getting toys
+11/22/2022, 2:47:12 PM - DEBUG - Getting toys
+11/22/2022, 2:47:19 PM - DEBUG - Getting toys
+11/22/2022, 2:47:24 PM - DEBUG - Getting toys
+11/22/2022, 2:47:55 PM - DEBUG - Getting toys
+11/22/2022, 2:48:12 PM - DEBUG - Getting toys
+11/22/2022, 2:50:02 PM - DEBUG - Getting toys
+11/22/2022, 2:50:18 PM - DEBUG - Getting toys
+11/22/2022, 2:51:22 PM - DEBUG - Getting toys
+11/22/2022, 2:51:26 PM - DEBUG - auth.service - login with username: asd
+11/22/2022, 2:51:26 PM - INFO - User login:  | {"_id":"631f2d89d69af826bf71a497","username":"asd","fullname":"qweqwe q","score":0}
+11/22/2022, 2:51:26 PM - DEBUG - Getting toys
+11/22/2022, 2:51:32 PM - DEBUG - {"fullname":"qewqeqeqweqwe","username":"qweqweqweq","password":"qweqweqwqwe"}
+11/22/2022, 2:51:32 PM - DEBUG - auth.service - signup with username: qweqweqweq, fullname: qewqeqeqweqwe
+11/22/2022, 2:51:32 PM - DEBUG - Getting toys
+11/22/2022, 2:51:32 PM - DEBUG - auth.route - new account created: {"username":"qweqweqweq","password":"$2b$10$uA6W/lpx5eKxxcBDkauIPuixXoqgRJFmxfhDYJ2K46nmPauM1YCY6","fullname":"qewqeqeqweqwe","score":0,"_id":"637cc5d4f587835ddbd088cf"}
+11/22/2022, 2:51:32 PM - DEBUG - auth.service - login with username: qweqweqweq
+11/22/2022, 2:51:32 PM - INFO - User signup: | {"_id":"637cc5d4f587835ddbd088cf","username":"qweqweqweq","fullname":"qewqeqeqweqwe","score":0}
+11/22/2022, 2:51:55 PM - DEBUG - Getting toys
