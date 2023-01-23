@@ -32,13 +32,11 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 // Express Routing:
-const toyRoutes = require('./api/toy/toy.routes')
-const userRoutes = require('./api/user/user.routes')
-const authRoutes = require('./api/auth/auth.routes')
+const productRoutes = require('./api/product/product.routes')
+const recipeRoutes = require('./api/recipe/recipe.routes.js')
 
-app.use('/api/toy', toyRoutes)
-app.use('/api/user', userRoutes)
-app.use('/api/auth', authRoutes)
+app.use('/api/product', productRoutes)
+app.use('/api/recipe', recipeRoutes)
 
 app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));

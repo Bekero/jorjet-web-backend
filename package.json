@@ -12,7 +12,7 @@
     "start": "node server.js",
     "dev": "nodemon --ignore \"./data\" server.js"
   },
-  "name": "toys-shop-back-end",
+  "name": "jorjet-web-back-end",
   "version": "1.0.0",
   "main": "server.js",
   "keywords": [],
