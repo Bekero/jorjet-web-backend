@@ -34,9 +34,11 @@ if (process.env.NODE_ENV === 'production') {
 // Express Routing:
 const productRoutes = require('./api/product/product.routes')
 const recipeRoutes = require('./api/recipe/recipe.routes.js')
+const detailsRoutes = require('./api/details/details.routes.js')
 
 app.use('/api/product', productRoutes)
 app.use('/api/recipe', recipeRoutes)
+app.use('/api/details', detailsRoutes)
 
 app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
